@@ -1,0 +1,14 @@
+C:\Users\insai\source\repos\ещпдшфееш\ещпдшфееш\bin\Debug\net8.0\ещпдшфееш.exe
+C:\Users\insai\source\repos\ещпдшфееш\ещпдшфееш\bin\Debug\net8.0\ещпдшфееш.deps.json
+C:\Users\insai\source\repos\ещпдшфееш\ещпдшфееш\bin\Debug\net8.0\ещпдшфееш.runtimeconfig.json
+C:\Users\insai\source\repos\ещпдшфееш\ещпдшфееш\bin\Debug\net8.0\ещпдшфееш.dll
+C:\Users\insai\source\repos\ещпдшфееш\ещпдшфееш\bin\Debug\net8.0\ещпдшфееш.pdb
+C:\Users\insai\source\repos\ещпдшфееш\ещпдшфееш\obj\Debug\net8.0\ещпдшфееш.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\insai\source\repos\ещпдшфееш\ещпдшфееш\obj\Debug\net8.0\ещпдшфееш.AssemblyInfoInputs.cache
+C:\Users\insai\source\repos\ещпдшфееш\ещпдшфееш\obj\Debug\net8.0\ещпдшфееш.AssemblyInfo.cs
+C:\Users\insai\source\repos\ещпдшфееш\ещпдшфееш\obj\Debug\net8.0\ещпдшфееш.csproj.CoreCompileInputs.cache
+C:\Users\insai\source\repos\ещпдшфееш\ещпдшфееш\obj\Debug\net8.0\ещпдшфееш.dll
+C:\Users\insai\source\repos\ещпдшфееш\ещпдшфееш\obj\Debug\net8.0\refint\ещпдшфееш.dll
+C:\Users\insai\source\repos\ещпдшфееш\ещпдшфееш\obj\Debug\net8.0\ещпдшфееш.pdb
+C:\Users\insai\source\repos\ещпдшфееш\ещпдшфееш\obj\Debug\net8.0\ещпдшфееш.genruntimeconfig.cache
+C:\Users\insai\source\repos\ещпдшфееш\ещпдшфееш\obj\Debug\net8.0\ref\ещпдшфееш.dll
